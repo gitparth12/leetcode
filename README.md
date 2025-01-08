@@ -31,11 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -54,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
