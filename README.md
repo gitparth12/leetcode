@@ -26,10 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,12 +40,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
