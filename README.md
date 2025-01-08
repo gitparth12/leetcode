@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
+| [1603-running-sum-of-1d-array](https://github.com/gitparth12/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Two Pointers
 |  |
@@ -152,4 +153,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/gitparth12/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
