@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
+| [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
 ## Tree
 |  |
 | ------- |
@@ -64,4 +66,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
