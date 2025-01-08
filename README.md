@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gitparth12/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/gitparth12/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/gitparth12/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gitparth12/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
