@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gitparth12/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gitparth12/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/gitparth12/leetcode/tree/master/0205-isomorphic-strings) |
