@@ -38,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -50,17 +52,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Linked List
