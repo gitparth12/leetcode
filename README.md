@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/gitparth12/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
@@ -147,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gitparth12/leetcode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
