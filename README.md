@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/gitparth12/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Two Pointers
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
