@@ -33,12 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
@@ -65,6 +67,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
