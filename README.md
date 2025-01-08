@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,12 +72,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 <!---LeetCode Topics End-->
