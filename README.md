@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/gitparth12/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/gitparth12/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gitparth12/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/gitparth12/leetcode/tree/master/0268-missing-number) |
@@ -170,5 +171,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gitparth12/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gitparth12/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
