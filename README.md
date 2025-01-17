@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/gitparth12/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gitparth12/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/gitparth12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gitparth12/leetcode/tree/master/0242-valid-anagram) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Hash Table
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/gitparth12/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/gitparth12/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gitparth12/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gitparth12/leetcode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
