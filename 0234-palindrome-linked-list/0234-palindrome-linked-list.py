@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        return self.recursion(head)
+        return self.make_list(head)
         
     def make_list(self, head: Optional[ListNode]) -> bool:
         # can't think of O(n) time and O(1) space
