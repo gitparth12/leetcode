@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gitparth12/leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/gitparth12/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gitparth12/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gitparth12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/gitparth12/leetcode/tree/master/0725-split-linked-list-in-parts) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/gitparth12/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gitparth12/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gitparth12/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
