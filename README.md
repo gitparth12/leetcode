@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/gitparth12/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/gitparth12/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitparth12/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0529-minesweeper](https://github.com/gitparth12/leetcode/tree/master/0529-minesweeper) |
 | [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/gitparth12/leetcode/tree/master/0226-invert-binary-tree) |
+| [0529-minesweeper](https://github.com/gitparth12/leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/gitparth12/leetcode/tree/master/0226-invert-binary-tree) |
+| [0529-minesweeper](https://github.com/gitparth12/leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gitparth12/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/gitparth12/leetcode/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 ## Recursion
 |  |
