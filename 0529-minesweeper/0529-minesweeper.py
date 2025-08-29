@@ -44,5 +44,4 @@ def is_valid(board: List[List[int]], position: List[int]):
 
 def count_adjacent_mines(board: List[List[int]], position: List[int]):
     adjacent_squares = [board[position[0] + x][position[1] + y] for x, y in Solution.adjacent if is_valid(board, (position[0] + x, position[1] + y))]
-    print(position, adjacent_squares)
     return adjacent_squares.count('M')
