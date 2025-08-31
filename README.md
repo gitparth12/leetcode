@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
+| [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1603-running-sum-of-1d-array](https://github.com/gitparth12/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gitparth12/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Two Pointers
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -167,11 +169,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/gitparth12/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/gitparth12/leetcode/tree/master/0392-is-subsequence) |
+| [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Matrix
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/gitparth12/leetcode/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
+| [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Recursion
 |  |
 | ------- |
