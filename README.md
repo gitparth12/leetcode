@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/gitparth12/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
+| [0040-combination-sum-ii](https://github.com/gitparth12/leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gitparth12/leetcode/tree/master/0040-combination-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
