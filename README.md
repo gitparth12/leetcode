@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitparth12/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/gitparth12/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitparth12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/gitparth12/leetcode/tree/master/0198-house-robber) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gitparth12/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitparth12/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/gitparth12/leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gitparth12/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gitparth12/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gitparth12/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
