@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/gitparth12/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/gitparth12/leetcode/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gitparth12/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/gitparth12/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/gitparth12/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/gitparth12/leetcode/tree/master/0392-is-subsequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1250-longest-common-subsequence](https://github.com/gitparth12/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
