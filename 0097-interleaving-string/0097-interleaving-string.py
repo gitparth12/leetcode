@@ -1,6 +1,6 @@
 class Solution:
     def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
-        # dp = [[False] * len(s2) for c in s1]  # dp[l1][l2] = s[]
+        if len(s1) + len(s2) < len(s3): return False
         dp = defaultdict(lambda: False)  # dp[(i1, i2, i3)] = bool for if s1[i1:] and s2[i2:] can interleave s3[i3:]
         def dfs(i1, i2, i3):
             if i1 == len(s1) and i2 == len(s2) and i3 == len(s3):
