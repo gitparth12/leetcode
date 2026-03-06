@@ -3,9 +3,10 @@ from collections import deque
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         stack = deque()
-        operators = set(['+', '-', '*', '/'])
         for token in tokens:
-            if token in operators:
+            if token[-1].isdigit():
+                stack.append(int(token))
+            else:
                 value = 0
                 b = stack.pop()
                 a = stack.pop()
@@ -19,7 +20,6 @@ class Solution:
                     case '/':
                         value = int(a / b)
                 stack.append(value)
-            else:
-                stack.append(int(token))
+
 
         return stack.pop()
