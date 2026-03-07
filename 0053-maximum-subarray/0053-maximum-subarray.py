@@ -1,6 +1,6 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        return self.dp(nums)
+        return self.greedy(nums)
     
     def greedy(self, nums: List[int]) -> int:
         current, max_sum = 0, nums[0]
