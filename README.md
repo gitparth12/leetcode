@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/gitparth12/leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/gitparth12/leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/gitparth12/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gitparth12/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gitparth12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitparth12/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/gitparth12/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/gitparth12/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitparth12/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/gitparth12/leetcode/tree/master/0097-interleaving-string) |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/gitparth12/leetcode/tree/master/0695-max-area-of-island) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gitparth12/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
