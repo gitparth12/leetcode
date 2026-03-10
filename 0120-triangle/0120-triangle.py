@@ -3,11 +3,11 @@ class Solution:
         return bottom_up(triangle)
 
 def bottom_up(triangle: List[List[int]]) -> int:
-    dp = triangle[-1]
+    # dp = triangle[-1]  # Can do inplace by treating current row in triangle as dp
     for i in range(len(triangle) - 2, -1, -1):
         for j in range(len(triangle[i])):
-            dp[j] = triangle[i][j] + min(dp[j], dp[j+1])
-    return dp[0]
+            triangle[i][j] = triangle[i][j] + min(triangle[i+1][j], triangle[i+1][j+1])
+    return triangle[0][0]
 
 def top_down(triangle: List[List[int]]) -> int:
     dp = {}  # (i, j) = min sum path from triangle[i][j] to bottom
