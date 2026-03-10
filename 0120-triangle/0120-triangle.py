@@ -1,15 +1,18 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-        dp = {}  # (i, j) = min sum path from triangle[i][j] to bottom
-        def dfs(i, j):
-            if i == len(triangle)-1:
-                return triangle[i][j]
-            if (i, j) in dp:
-                return dp[(i, j)]
-            
-            dp[(i, j)] = triangle[i][j] + min(dfs(i+1, j), dfs(i+1, j+1))
+        return top_down(triangle)
+
+def top_down(triangle: List[List[int]]) -> int:
+    dp = {}  # (i, j) = min sum path from triangle[i][j] to bottom
+    def dfs(i, j):
+        if i == len(triangle)-1:
+            return triangle[i][j]
+        if (i, j) in dp:
             return dp[(i, j)]
-        return dfs(0, 0)
+        
+        dp[(i, j)] = triangle[i][j] + min(dfs(i+1, j), dfs(i+1, j+1))
+        return dp[(i, j)]
+    return dfs(0, 0)
 
 # dp solution: at the top, we need to know which path leads to the minimum sum
 # for a top-down solution, dp[i][j] = triangle[i][j] + min(dp[i+1][j], dp[i+1][j+1])
