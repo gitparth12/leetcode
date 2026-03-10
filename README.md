@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/gitparth12/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gitparth12/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gitparth12/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1039-find-the-town-judge](https://github.com/gitparth12/leetcode/tree/master/1039-find-the-town-judge) |
 | [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1603-running-sum-of-1d-array](https://github.com/gitparth12/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gitparth12/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/gitparth12/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gitparth12/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
