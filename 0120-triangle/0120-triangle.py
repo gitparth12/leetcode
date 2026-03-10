@@ -1,16 +1,13 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-        for i in range(len(triangle) - 2, -1, -1):
-            for j in range(len(triangle[i])):
-                triangle[i][j] = triangle[i][j] + min(triangle[i+1][j], triangle[i+1][j+1])
-        return triangle[0][0]
+        return bottom_up(triangle)
 
-def bottom_up(triangle: List[List[int]]) -> int:
+def bottom_up(tri: List[List[int]]) -> int:
     # dp = triangle[-1]  # Can do inplace by treating current row in triangle as dp
-    for i in range(len(triangle) - 2, -1, -1):
-        for j in range(len(triangle[i])):
-            triangle[i][j] = triangle[i][j] + min(triangle[i+1][j], triangle[i+1][j+1])
-    return triangle[0][0]
+    for i in range(len(tri) - 2, -1, -1):
+        for j in range(len(tri[i])):
+            tri[i][j] = tri[i][j] + min(tri[i+1][j], tri[i+1][j+1])
+    return tri[0][0]
 
 def top_down(triangle: List[List[int]]) -> int:
     dp = {}  # (i, j) = min sum path from triangle[i][j] to bottom
