@@ -3,13 +3,10 @@ class Solution:
         return bottom_up(triangle)
 
 def bottom_up(triangle: List[List[int]]) -> int:
-    if len(triangle) == 1:
-        return triangle[0][0]
     dp = triangle[-1]
-    for row in triangle[len(triangle)-2::-1]:
-        print(row)
-        for j in range(len(row)):
-            dp[j] = row[j] + min(dp[j], dp[j+1])
+    for i in range(len(triangle) - 2, -1, -1):
+        for j in range(len(triangle[i])):
+            dp[j] = triangle[i][j] + min(dp[j], dp[j+1])
     return dp[0]
 
 def top_down(triangle: List[List[int]]) -> int:
