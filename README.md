@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/gitparth12/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gitparth12/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/gitparth12/leetcode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/gitparth12/leetcode/tree/master/0476-number-complement) |
 ## Memoization
 |  |
 | ------- |
