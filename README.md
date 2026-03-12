@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitparth12/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/gitparth12/leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/gitparth12/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gitparth12/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/gitparth12/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/gitparth12/leetcode/tree/master/0205-isomorphic-strings) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/gitparth12/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gitparth12/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gitparth12/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/gitparth12/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gitparth12/leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/gitparth12/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitparth12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
