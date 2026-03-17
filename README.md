@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gitparth12/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/gitparth12/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/gitparth12/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/gitparth12/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/gitparth12/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1117-as-far-from-land-as-possible](https://github.com/gitparth12/leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/gitparth12/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gitparth12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gitparth12/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/gitparth12/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/gitparth12/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
